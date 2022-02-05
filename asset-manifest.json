@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/define-ru-cases/static/css/main.9b06b13d.css",
+    "main.js": "/define-ru-cases/static/js/main.3ffe1dd1.js",
+    "index.html": "/define-ru-cases/index.html",
+    "main.9b06b13d.css.map": "/define-ru-cases/static/css/main.9b06b13d.css.map",
+    "main.3ffe1dd1.js.map": "/define-ru-cases/static/js/main.3ffe1dd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b06b13d.css",
+    "static/js/main.3ffe1dd1.js"
+  ]
+}
